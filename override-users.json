@@ -6,7 +6,7 @@
     "You can delete these _comments entries safely."
   ],
   "disableAll": {
-    "enabled": true,
+    "enabled": false,
     "message": "Extension has been disabled by Coi"
   },
   "blocked": [
