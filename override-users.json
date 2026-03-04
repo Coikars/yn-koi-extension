@@ -19,7 +19,7 @@
   "overrides": [
     {
       "_comment": "Example override user (subscription bypass)",
-      "username": "coi",
+      "username": "",
       "reason": "Owner bypass (optional)"
     }
   ]
