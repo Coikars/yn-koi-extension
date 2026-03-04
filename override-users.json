@@ -1,0 +1,26 @@
+{
+  "_comments": [
+    "Set disableAll.enabled to true to disable the extension for everyone.",
+    "Add users to 'blocked' to block specific usernames.",
+    "Add users to 'overrides' to bypass subscription checks.",
+    "You can delete these _comments entries safely."
+  ],
+  "disableAll": {
+    "enabled": true,
+    "message": "Extension has been disabled by Coi"
+  },
+  "blocked": [
+    {
+      "_comment": "Example blocked user (uncomment/remove _comment and adjust username to use)",
+      "username": "exampleUser",
+      "reason": "Abuse / ToS violation"
+    }
+  ],
+  "overrides": [
+    {
+      "_comment": "Example override user (subscription bypass)",
+      "username": "coi",
+      "reason": "Owner bypass (optional)"
+    }
+  ]
+}
