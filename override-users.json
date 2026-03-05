@@ -19,7 +19,7 @@
     }
   ],
   "updateNotification": {
-    "enabled": false,
+    "enabled": true,
     "version": "1.2.0",
     "message": "🎉 Version 1.2.0 is available with new features!",
     "webstoreUrl": "https://chrome.google.com/webstore",
