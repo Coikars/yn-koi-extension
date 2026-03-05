@@ -1,27 +1,35 @@
 {
+  "notice": {
+    "enabled": true,
+    "emoji": "🎉",
+    "message": "Welcome to the updated extension! Check out the new import/export feature in settings.",
+    "link": "https://www.younow.com/coi",
+    "linkText": "Learn More"
+  },
   "disableAll": {
     "enabled": false,
-    "message": "Extension has been temporarily disabled. Please check back later."
+    "message": ""
   },
   "blocked": [],
   "overrides": [
     {
       "username": "coi",
-      "reason": "👑 Owner bypass"
+      "reason": "Creator access"
     },
     {
-      "username": "Tom",
-      "reason": "🎩 Ambassador bypass"
+      "username": "tom",
+      "reason": "Friend"
     },
     {
-      "username": "Ryan",
-      "reason": "🎩 Ambassador bypass"
-    }
+      "username": "ryan",
+      "reason": "Friend"
+    },
+    
   ],
   "updateNotification": {
-    "enabled": true,
+    "enabled": false,
     "version": "1.2.0",
-    "message": "🎉 Version 1.2.0 is available with new features!",
+    "message": "Update available with new features!",
     "webstoreUrl": "https://chrome.google.com/webstore",
     "ctaText": "Update Now"
   }
