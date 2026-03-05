@@ -1,36 +1,35 @@
 {
-  "notice": {
-    "enabled": true,
-    "emoji": "🎉",
-    "message": "Welcome to the updated extension! Check out the new import/export feature in settings.",
-    "link": "https://www.younow.com/coi",
-    "linkText": "Learn More"
-  },
+  "overrides": [
+    {
+      "username": "coi",
+      "reason": "👑 Extension Owner"
+    },
+    {
+      "username": "tom",
+      "reason": "🩵 Friend of Coi"
+    },
+    {
+      "username": "ryan",
+      "reason": "🩵 Friend of Coi"
+    }
+  ],
+  "blocked": [],
   "disableAll": {
     "enabled": false,
     "message": ""
   },
-  "blocked": [],
-  "overrides": [
-    {
-      "username": "coi",
-      "reason": "Creator access"
-    },
-    {
-      "username": "tom",
-      "reason": "Friend"
-    },
-    {
-      "username": "ryan",
-      "reason": "Friend"
-    },
-    
-  ],
   "updateNotification": {
     "enabled": false,
     "version": "1.2.0",
-    "message": "Update available with new features!",
+    "message": "New version available with bug fixes!",
     "webstoreUrl": "https://chrome.google.com/webstore",
     "ctaText": "Update Now"
+  },
+  "notice": {
+    "enabled": true,
+    "emoji": "🎉",
+    "message": "Welcome to YouNow Koi Addons! Enjoying the extension?",
+    "link": "",
+    "linkText": ""
   }
 }
