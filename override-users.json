@@ -20,7 +20,7 @@
   },
   "updateNotification": {
     "enabled": false,
-    "version": "1.1.0",
+    "version": "1.1.1",
     "message": "New version available with bug fixes!",
     "webstoreUrl": "https://coikars.com/koi-younow-addons",
     "ctaText": "Update Now"
