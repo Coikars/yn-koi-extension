@@ -1,7 +1,7 @@
 {
   "overrides": [
     {
-      "username": "c",
+      "username": "coi",
       "reason": "👑 Extension Owner"
     },
     {
@@ -18,10 +18,14 @@
     "enabled": false,
     "message": ""
   },
+  "globalUnlock": {
+    "enabled": false,
+    "message": "🔓 Free access for everyone!"
+  },
   "updateNotification": {
     "enabled": false,
-    "version": "1.1.1",
-    "message": "New version available with bug fixes!",
+    "version": "1.1.2",
+    "message": "v1.1.2 available - security improvements and bug fixes!",
     "webstoreUrl": "https://coikars.com/koi-younow-addons",
     "ctaText": "Update Now"
   },
