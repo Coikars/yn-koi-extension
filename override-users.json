@@ -1,7 +1,7 @@
 {
   "overrides": [
     {
-      "username": "c",
+      "username": "coi",
       "reason": "👑 Extension Owner"
     },
     {
@@ -19,7 +19,7 @@
     "message": ""
   },
   "globalUnlock": {
-    "enabled": true,
+    "enabled": false,
     "message": "🔓 Free access for everyone!"
   },
   "updateNotification": {
