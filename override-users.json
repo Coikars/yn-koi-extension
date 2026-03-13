@@ -19,7 +19,7 @@
     "message": ""
   },
   "globalUnlock": {
-    "enabled": false,
+    "enabled": true,
     "message": "🔓 Free access for everyone!"
   },
   "updateNotification": {
