@@ -33,7 +33,7 @@
     "enabled": true,
     "emoji": "🎉",
     "message": "Welcome to YouNow Koi Addons! Enjoying the extension?",
-    "link": "https://coikars.com/discord",
-    "linkText": "Join my community on Discord!"
+    "link": "root,
+    "linkText": "Join my community on Root!"
   }
 }
