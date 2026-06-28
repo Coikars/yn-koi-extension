@@ -23,8 +23,8 @@
     "message": ""
   },
   "globalUnlock": {
-    "enabled": false,
-    "message": "🔓 Free access for everyone!"
+    "enabled": true,
+    "message": "🌎 Global Access"
   },
   "updateNotification": {
     "enabled": false,
@@ -35,9 +35,9 @@
   },
   "notice": {
     "enabled": true,
-    "emoji": "🎉",
-    "message": "Welcome to YouNow Koi Addons! Enjoying the extension?",
-    "link": "https://coikars.com/root",
-    "linkText": "Join my community on Root!"
+    "emoji": "ℹ️",
+    "message": "I am not presently streaming on YouNow, so I am not maintaining this extension. Because of this, I have removed the subscription requirement.",
+    "link": "https://coikars.com/discord",
+    "linkText": "Join my community on Discord!"
   }
 }
